@@ -2028,6 +2028,30 @@
     },
     "done": true
   },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-01-22 19:45:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-01-22 19:45:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-22 19:45:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-01-22 19:46:43 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-01-22 19:46:50 +0000"
@@ -2058,39 +2082,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coal_block": {
-    "criteria": {
-      "has_coal": "2025-01-22 19:46:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-01-22 19:51:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2025-01-22 19:45:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2025-01-22 19:45:54 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ashes_and_bones": {
-    "criteria": {
-      "coded_trigger": "2025-01-22 19:45:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-01-22 19:51:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-22 19:58:25 +0000"
     },
     "done": true
   },
