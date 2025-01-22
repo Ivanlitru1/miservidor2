@@ -307,3 +307,172 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [22Jan2025 20:26:59.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Migueelolabarria has reached the goal [Here They Come]
 [22Jan2025 20:27:30.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Migueelolabarria> T
 [22Jan2025 20:27:44.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ivanesgey moved too quickly! -2.682428364738371,1.3028944838623033,-10.541737334730499
+[22Jan2025 20:31:30.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ivanesgey moved too quickly! -0.8603377239269321,0.0,-10.458633528139444
+[22Jan2025 20:31:48.932] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[22Jan2025 20:31:48.933] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[22Jan2025 20:31:48.939] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
+[22Jan2025 20:31:48.950] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[22Jan2025 20:31:49.432] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
+[22Jan2025 20:31:49.433] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
+[22Jan2025 20:31:49.433] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
+[22Jan2025 20:31:49.456] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
+[22Jan2025 20:31:49.456] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
+[22Jan2025 20:32:34.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ivanesgey moved too quickly! -0.6907717999620218,-11.174897320266439,-0.13792211495729134
+[22Jan2025 20:32:55.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Migueelolabarria has made the advancement [Stone Age]
+[22Jan2025 20:33:00.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanesgey has made the advancement [Call For Adventure]
+[22Jan2025 20:33:02.819] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2341ms or 46 ticks behind
+[22Jan2025 20:33:02.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Enekito04 moved too quickly! -10.042642270102988,0.0,0.023457965069383135
+[22Jan2025 20:33:51.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Migueelolabarria has made the advancement [Getting an Upgrade]
+[22Jan2025 20:33:58.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ivanesgey moved too quickly! -8.706153466127034,0.0,-6.337401517287617
+[22Jan2025 20:34:26.543] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=48, z=214}
+[22Jan2025 20:34:26.544] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=48, z=214}
+[22Jan2025 20:34:26.544] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=49, z=214}
+[22Jan2025 20:34:26.544] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=48, z=214}
+[22Jan2025 20:34:26.544] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=49, z=214}
+[22Jan2025 20:34:26.544] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=49, z=214}
+[22Jan2025 20:34:26.545] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=311, y=50, z=214}
+[22Jan2025 20:34:26.545] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=310, y=50, z=214}
+[22Jan2025 20:34:26.545] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=309, y=50, z=214}
+[22Jan2025 20:35:50.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanesgey has made the advancement [Quite the Renovation]
+[22Jan2025 20:36:28.926] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
+[22Jan2025 20:36:41.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Migueelolabarria> COMO SE MIRA EL MAPA?
+[22Jan2025 20:36:45.289] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
+[22Jan2025 20:36:45.306] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
+[22Jan2025 20:36:48.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Enekito04> j
+[22Jan2025 20:36:53.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ivanesgey> CIRCULO
+[22Jan2025 20:37:21.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Migueelolabarria has made the advancement [Monster Hunter]
+[22Jan2025 20:37:41.176] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
+[22Jan2025 20:37:41.179] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
+[22Jan2025 20:37:41.253] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
+[22Jan2025 20:37:41.863] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[22Jan2025 20:38:05.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanesgey has made the advancement [Cobweb Entanglement]
+[22Jan2025 20:38:30.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ivanesgey moved too quickly! 5.672687238598883,0.0,9.062095736072479
+[22Jan2025 20:39:15.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Set the time to 1000]
+[22Jan2025 20:40:42.040] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
+[22Jan2025 20:40:42.165] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
+[22Jan2025 20:40:45.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Migueelolabarria> vivimos todos separados no?
+[22Jan2025 20:40:45.532] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[22Jan2025 20:40:45.532] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[22Jan2025 20:40:45.533] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[22Jan2025 20:40:45.533] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[22Jan2025 20:40:45.534] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[22Jan2025 20:40:45.644] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[22Jan2025 20:40:45.644] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[22Jan2025 20:40:55.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sam.va.lentin> si
+[22Jan2025 20:41:07.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ivanesgey> id preparandos
+[22Jan2025 20:41:10.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Migueelolabarria> alguna regla en plan de discancia
+[22Jan2025 20:41:11.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ivanesgey> tengo mucha tnt
+[22Jan2025 20:41:15.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Migueelolabarria> vale vale
+[22Jan2025 20:41:34.167] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[22Jan2025 20:41:49.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanesgey has made the advancement [Intruder Alert]
+[22Jan2025 20:42:07.363] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=-57, z=-315}
+[22Jan2025 20:42:07.363] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=-57, z=-315}
+[22Jan2025 20:42:07.364] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=-57, z=-315}
+[22Jan2025 20:42:09.768] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[22Jan2025 20:42:09.774] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-57, z=-313}
+[22Jan2025 20:42:09.775] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=-57, z=-313}
+[22Jan2025 20:42:09.775] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-57, z=-313}
+[22Jan2025 20:42:09.878] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[22Jan2025 20:42:09.879] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[22Jan2025 20:42:51.882] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=-57, z=-315}
+[22Jan2025 20:42:51.882] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-57, z=-313}
+[22Jan2025 20:42:51.883] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=-57, z=-313}
+[22Jan2025 20:42:51.883] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-57, z=-313}
+[22Jan2025 20:42:51.883] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=-57, z=-315}
+[22Jan2025 20:42:51.883] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=-57, z=-315}
+[22Jan2025 20:42:52.491] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[22Jan2025 20:42:52.492] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[22Jan2025 20:42:52.492] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[22Jan2025 20:44:42.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ivanesgey moved too quickly! 9.345709100820386,0.0,4.11944920421206
+[22Jan2025 20:44:42.788] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[22Jan2025 20:45:12.935] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[22Jan2025 20:45:12.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Enekito04 moved too quickly! 9.99433957606152,1.0,0.11950166098824866
+[22Jan2025 20:45:13.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sam.va.lentin has made the advancement [Where Is The Stone Pen?]
+[22Jan2025 20:45:22.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ivanesgey moved too quickly! -4.167867951875451,0.0,9.945462250008859
+[22Jan2025 20:45:34.336] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Heung'/74881, l='ServerLevel[world]', x=8753.93, y=65.00, z=-1477.63] died, message: 'Heung suffocated in a wall'
+[22Jan2025 20:45:47.143] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[22Jan2025 20:45:47.143] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[22Jan2025 20:45:47.144] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[22Jan2025 20:45:47.145] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[22Jan2025 20:45:47.181] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[22Jan2025 20:45:47.181] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[22Jan2025 20:45:47.181] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[22Jan2025 20:45:47.181] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[22Jan2025 20:45:48.569] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[22Jan2025 20:45:48.570] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[22Jan2025 20:45:48.571] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[22Jan2025 20:45:48.571] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[22Jan2025 20:45:48.571] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[22Jan2025 20:45:48.579] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=-57, z=-394}
+[22Jan2025 20:45:48.608] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[22Jan2025 20:45:48.608] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[22Jan2025 20:45:48.609] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[22Jan2025 20:45:48.609] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[22Jan2025 20:45:48.609] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[22Jan2025 20:45:48.610] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[22Jan2025 20:45:48.610] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[22Jan2025 20:45:48.615] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=-57, z=-393}
+[22Jan2025 20:45:52.013] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2235ms or 44 ticks behind
+[22Jan2025 20:46:40.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sam.va.lentin has made the advancement [A Bone to Pick]
+[22Jan2025 20:47:19.379] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[22Jan2025 20:47:45.989] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[22Jan2025 20:49:48.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Teleported Ivanesgey to sam.va.lentin]
+[22Jan2025 20:49:49.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanesgey has made the advancement [A Bone to Pick]
+[22Jan2025 20:49:49.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanesgey has made the advancement [Professional Dungeoneer]
+[22Jan2025 20:49:52.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanesgey has made the advancement [Fwoomp!]
+[22Jan2025 20:50:20.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Migueelolabarria> timesetday
+[22Jan2025 20:51:06.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Enekito04> necesitas permisos d admin
+[22Jan2025 20:51:15.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Migueelolabarria> eneko ya se
+[22Jan2025 20:51:22.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Migueelolabarria> era para que lo ponga ivan
+[22Jan2025 20:51:36.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Migueelolabarria has made the advancement [You Are A Pirate]
+[22Jan2025 20:51:48.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Enekito04> de todas formas, es "/time set day"
+[22Jan2025 20:52:01.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Migueelolabarria> madero cosmico
+[22Jan2025 20:52:01.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Enekito04> dormimos?
+[22Jan2025 20:53:14.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Set own game mode to Spectator Mode]
+[22Jan2025 20:53:22.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Teleported Ivanesgey to Migueelolabarria]
+[22Jan2025 20:53:33.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sam.va.lentin has made the advancement [Take Aim]
+[22Jan2025 20:53:45.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Set the time to 1000]
+[22Jan2025 20:54:10.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Enekito04 moved too quickly! -0.38547813871173275,-1.7967356006687112,10.098624733622728
+[22Jan2025 20:54:34.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Set own game mode to Creative Mode]
+[22Jan2025 20:54:45.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Migueelolabarria has made the advancement [Acquire Hardware]
+[22Jan2025 20:54:53.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Migueelolabarria has made the advancement [Suit Up]
+[22Jan2025 20:54:54.109] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Enekito04 lost connection: Disconnected
+[22Jan2025 20:54:54.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enekito04 left the game
+[22Jan2025 20:54:54.194] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Jan2025 20:55:02.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sam.va.lentin has reached the goal [Bone Crusher]
+[22Jan2025 20:55:37.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Migueelolabarria> tu
+[22Jan2025 20:55:46.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Migueelolabarria> me voy a cagar en toda tu madre
+[22Jan2025 20:56:08.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Migueelolabarria> vaya puta rata ivan
+[22Jan2025 20:57:36.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Teleported Ivanesgey to sam.va.lentin]
+[22Jan2025 20:58:08.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Migueelolabarria> ivan quitate lo de admin macho
+[22Jan2025 20:58:15.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Gave 6400 [Diamond] to sam.va.lentin]
+[22Jan2025 20:58:16.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Gave 6400 [Diamond] to sam.va.lentin]
+[22Jan2025 20:58:16.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Gave 6400 [Diamond] to sam.va.lentin]
+[22Jan2025 20:58:17.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Gave 6400 [Diamond] to sam.va.lentin]
+[22Jan2025 20:58:17.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Gave 6400 [Diamond] to sam.va.lentin]
+[22Jan2025 20:58:18.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Gave 6400 [Diamond] to sam.va.lentin]
+[22Jan2025 20:58:18.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Gave 6400 [Diamond] to sam.va.lentin]
+[22Jan2025 20:58:19.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Gave 6400 [Diamond] to sam.va.lentin]
+[22Jan2025 20:58:19.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Gave 6400 [Diamond] to sam.va.lentin]
+[22Jan2025 20:58:20.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Gave 6400 [Diamond] to sam.va.lentin]
+[22Jan2025 20:58:21.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Gave 6400 [Diamond] to sam.va.lentin]
+[22Jan2025 20:58:21.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Gave 6400 [Diamond] to sam.va.lentin]
+[22Jan2025 20:58:22.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Gave 6400 [Diamond] to sam.va.lentin]
+[22Jan2025 20:58:22.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Gave 6400 [Diamond] to sam.va.lentin]
+[22Jan2025 20:58:23.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Gave 6400 [Diamond] to sam.va.lentin]
+[22Jan2025 20:58:23.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Gave 6400 [Diamond] to sam.va.lentin]
+[22Jan2025 20:58:24.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Gave 6400 [Diamond] to sam.va.lentin]
+[22Jan2025 20:58:24.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Gave 6400 [Diamond] to sam.va.lentin]
+[22Jan2025 20:58:25.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Gave 6400 [Diamond] to sam.va.lentin]
+[22Jan2025 20:58:25.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Gave 6400 [Diamond] to sam.va.lentin]
+[22Jan2025 20:58:26.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Gave 6400 [Diamond] to sam.va.lentin]
+[22Jan2025 20:58:26.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2112ms or 42 ticks behind
+[22Jan2025 20:58:26.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Gave 6400 [Diamond] to sam.va.lentin]
+[22Jan2025 20:58:27.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Gave 6400 [Diamond] to sam.va.lentin]
+[22Jan2025 20:58:27.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Gave 6400 [Diamond] to sam.va.lentin]
+[22Jan2025 20:58:28.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Gave 6400 [Diamond] to sam.va.lentin]
+[22Jan2025 20:58:29.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Gave 6400 [Diamond] to sam.va.lentin]
+[22Jan2025 20:58:43.329] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Enekito04[/127.223.222.124:48775] logged in with entity id 90825 at (1718.2763978596993, 85.02442408821369, -589.0613957436951)
+[22Jan2025 20:58:43.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enekito04 joined the game
+[22Jan2025 20:58:54.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13669ms or 273 ticks behind
+[22Jan2025 20:59:18.476] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8798ms or 175 ticks behind
