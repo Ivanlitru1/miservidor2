@@ -204,3 +204,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [22Jan2025 19:40:14.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanesgey left the game
 [22Jan2025 19:45:23.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sam.va.lentin has made the advancement [Ashes 'n Bones]
 [22Jan2025 19:46:50.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sam.va.lentin has made the advancement [A Strange Grave Dust]
+[22Jan2025 19:48:00.590] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Enekito04[/127.41.205.116:58713] logged in with entity id 2880 at (817.5, 63.0, 1004.5)
+[22Jan2025 19:48:00.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enekito04 joined the game
+[22Jan2025 19:53:23.471] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2743ms or 54 ticks behind
+[22Jan2025 19:53:26.065] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[22Jan2025 19:53:27.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enekito04 has made the advancement [Minecraft Comes Alive]
+[22Jan2025 19:53:39.070] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Enida'/4599, l='ServerLevel[world]', x=1742.64, y=82.00, z=-661.28] died, message: 'Enida suffocated in a wall'
+[22Jan2025 19:54:56.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Enekito04> t
