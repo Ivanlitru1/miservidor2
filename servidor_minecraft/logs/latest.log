@@ -284,3 +284,26 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [22Jan2025 20:15:20.404] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sam.va.lentin[/127.39.198.30:40965] logged in with entity id 25379 at (1525.2114855280329, 44.0, 901.343899325159)
 [22Jan2025 20:15:20.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sam.va.lentin joined the game
 [22Jan2025 20:16:50.326] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
+[22Jan2025 20:19:19.107] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Migueelolabarria[/127.198.219.213:60637] logged in with entity id 29082 at (832.5, 63.0, 999.5)
+[22Jan2025 20:19:19.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Migueelolabarria joined the game
+[22Jan2025 20:19:36.718] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[22Jan2025 20:20:03.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanesgey has made the advancement [Magic Writing]
+[22Jan2025 20:20:07.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanesgey has reached the goal [Waterworld]
+[22Jan2025 20:20:22.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanesgey has made the advancement [Knowledge raises the soul]
+[22Jan2025 20:20:37.877] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[22Jan2025 20:20:37.915] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[22Jan2025 20:21:59.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sam.va.lentin has made the advancement [Quite the Renovation]
+[22Jan2025 20:23:17.701] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=830, y=62, z=1002}
+[22Jan2025 20:23:23.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sam.va.lentin has made the advancement [Magic Writing]
+[22Jan2025 20:24:16.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Migueelolabarria> HOLA
+[22Jan2025 20:24:43.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enekito04 has made the advancement [A Strange Grave Dust]
+[22Jan2025 20:25:22.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Set the time to 1000]
+[22Jan2025 20:25:27.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Migueelolabarria> GRACIAS
+[22Jan2025 20:25:47.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Migueelolabarria was killed
+[22Jan2025 20:25:47.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Killed Migueelolabarria]
+[22Jan2025 20:25:47.972] [Server thread/INFO] [tombstone/]: The player Migueelolabarria has successfully been saved
+[22Jan2025 20:26:19.292] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Arnaldo'/37337, l='ServerLevel[world]', x=4207.52, y=63.00, z=1241.92] died, message: 'Arnaldo was slain by Vindicator'
+[22Jan2025 20:26:19.293] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Arnaldo'/37337, l='ServerLevel[world]', x=4207.52, y=63.00, z=1241.92] died: Arnaldo was slain by Vindicator
+[22Jan2025 20:26:59.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Migueelolabarria has reached the goal [Here They Come]
+[22Jan2025 20:27:30.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Migueelolabarria> T
+[22Jan2025 20:27:44.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ivanesgey moved too quickly! -2.682428364738371,1.3028944838623033,-10.541737334730499

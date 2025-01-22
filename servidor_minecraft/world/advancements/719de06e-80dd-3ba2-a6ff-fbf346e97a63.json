@@ -11,6 +11,7 @@
       "minecraft:deep_ocean": "2025-01-22 20:05:05 +0000",
       "minecraft:sunflower_plains": "2025-01-22 20:07:39 +0000",
       "minecraft:birch_forest": "2025-01-22 20:05:41 +0000",
+      "minecraft:windswept_hills": "2025-01-22 20:27:06 +0000",
       "minecraft:bamboo_jungle": "2025-01-22 10:18:59 +0000",
       "minecraft:beach": "2025-01-22 10:12:42 +0000",
       "minecraft:dark_forest": "2025-01-22 12:07:06 +0000",
@@ -21,8 +22,10 @@
       "minecraft:dripstone_caves": "2025-01-22 10:05:04 +0000",
       "minecraft:grove": "2025-01-22 20:06:18 +0000",
       "minecraft:jagged_peaks": "2025-01-22 20:06:11 +0000",
+      "minecraft:cold_ocean": "2025-01-22 20:19:52 +0000",
       "minecraft:forest": "2025-01-22 10:13:00 +0000",
       "minecraft:lush_caves": "2025-01-22 10:14:47 +0000",
+      "minecraft:deep_cold_ocean": "2025-01-22 20:27:25 +0000",
       "minecraft:jungle": "2025-01-22 10:13:28 +0000",
       "minecraft:ocean": "2025-01-22 12:07:07 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-22 12:06:59 +0000",
@@ -937,15 +940,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-01-22 20:27:37 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2025-01-22 20:03:19 +0000"
     },
     "done": true
   },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-01-22 20:25:56 +0000"
+    },
+    "done": false
+  },
   "dungeons_arise:find_illager_corsair_or_illager_galley": {
     "criteria": {
       "location0": "2025-01-22 20:09:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-01-22 20:27:37 +0000"
     },
     "done": true
   },
@@ -964,6 +985,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-01-22 20:09:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-22 20:20:22 +0000"
     },
     "done": true
   },
@@ -997,6 +1024,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-01-22 20:27:37 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2025-01-22 20:10:00 +0000"
@@ -1021,9 +1054,21 @@
     },
     "done": false
   },
+  "tombstone:adventure/use_aquatic_life": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-22 20:20:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-01-22 20:09:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-22 20:20:03 +0000"
     },
     "done": true
   },
