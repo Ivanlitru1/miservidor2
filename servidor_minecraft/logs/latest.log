@@ -828,3 +828,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'vinery:dark_cherry'
 [23Jan2025 22:19:37.924] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [23Jan2025 22:19:38.028] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [23Jan2025 22:19:38.128] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[23Jan2025 22:22:54.800] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sam.va.lentin[/127.39.198.30:60745] logged in with entity id 58118 at (1526.9878764804748, 45.0, 895.2029668884634)
+[23Jan2025 22:22:54.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sam.va.lentin joined the game
+[23Jan2025 22:22:54.820] [Server thread/INFO] [Jade/]: Syncing config to sam.va.lentin (b5cf5bfe-a3fe-3966-979c-82206483a34f)
+[23Jan2025 22:22:55.325] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of sam.va.lentin (18)
+[23Jan2025 22:22:55.326] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to sam.va.lentin
+[23Jan2025 22:23:19.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sam.va.lentin: Set the time to 1000]
+[23Jan2025 22:30:28.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sam.va.lentin: Set own game mode to Creative Mode]
+[23Jan2025 22:36:25.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Migueelolabarria has made the advancement [Isn't It Iron Pick]
+[23Jan2025 22:39:43.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sam.va.lentin> ttime set day
+[23Jan2025 22:39:55.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sam.va.lentin: Set the time to 1000]
