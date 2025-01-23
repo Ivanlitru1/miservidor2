@@ -693,3 +693,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'vinery:dark_cherry'
 [23Jan2025 20:26:58.410] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [comforts:main,alexsmobs:main_channel,tombstone:tombstone_channel,playerrevive:main,cookingforblockheads:network,carryon:carryonpackets,mca:main,chipped:main,creativecore:main,citadel:main_channel,securitycraft:securitycraft,personality:net,blueprint:net,elevatorid:main_channel,create:main,geckolib:main,prettypipes:network,polymorph:main] rejected their client side version number
 [23Jan2025 20:26:58.411] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [23Jan2025 20:26:58.418] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5200e6cf[id=<null>,name=Migueelolabarria,properties={},legacy=false] (/127.198.219.213:56405) lost connection: Connection closed - mismatched mod channel list
+[23Jan2025 20:29:10.866] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[23Jan2025 20:29:10.940] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Migueelolabarria[/127.198.219.213:34513] logged in with entity id 598 at (826.9716345299579, 63.0, 1018.5485564837111)
+[23Jan2025 20:29:11.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Migueelolabarria joined the game
+[23Jan2025 20:29:11.295] [Server thread/INFO] [Jade/]: Syncing config to Migueelolabarria (0e1e82f6-1192-3677-ba2d-6fd5a907c3eb)
+[23Jan2025 20:29:12.509] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Migueelolabarria (18)
+[23Jan2025 20:29:12.518] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Migueelolabarria
