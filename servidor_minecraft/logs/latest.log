@@ -694,3 +694,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'vinery:dark_cherry'
 [23Jan2025 23:45:41.888] [Server thread/INFO] [tombstone/]: The player Enekito04 has successfully been saved
 [23Jan2025 23:45:56.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enekito04 was slain by Zombie
 [23Jan2025 23:45:59.934] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3685ms or 73 ticks behind
+[23Jan2025 23:50:40.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enekito04 is bleeding. Enekito04 drowned
+[23Jan2025 23:50:40.261] [Server thread/WARN] [tombstone/]: The death event of the player Enekito04 was canceled by another mod
+[23Jan2025 23:50:40.264] [Server thread/INFO] [tombstone/]: The player Enekito04 has successfully been saved
+[23Jan2025 23:50:49.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enekito04 drowned
+[23Jan2025 23:56:40.107] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Enekito04 lost connection: Disconnected
+[23Jan2025 23:56:40.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enekito04 left the game
+[23Jan2025 23:56:40.110] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Enekito04
