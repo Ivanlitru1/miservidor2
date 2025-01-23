@@ -748,3 +748,83 @@ com.google.gson.JsonSyntaxException: Unknown item 'vinery:dark_cherry'
 [23Jan2025 21:24:11.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sam.va.lentin: Set own game mode to Survival Mode]
 [23Jan2025 21:25:40.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sam.va.lentin has made the advancement [Alex's Mobs]
 [23Jan2025 21:34:44.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sam.va.lentin: Set the time to 1000]
+[23Jan2025 21:39:50.790] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Enekito04[/127.101.26.124:54863] logged in with entity id 22729 at (936.5966939053361, 60.0, -65.32596256907637)
+[23Jan2025 21:39:50.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enekito04 joined the game
+[23Jan2025 21:39:50.805] [Server thread/INFO] [Jade/]: Syncing config to Enekito04 (69812615-9561-354a-9988-85ddbd911a58)
+[23Jan2025 21:39:53.687] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Enekito04 (18)
+[23Jan2025 21:39:53.688] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Enekito04
+[23Jan2025 21:44:17.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sam.va.lentin: Set the time to 1000]
+[23Jan2025 21:47:03.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[23Jan2025 21:47:03.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KILL Sam.va.lentin<--[HERE]
+[23Jan2025 21:47:11.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sam.va.lentin is bleeding. sam.va.lentin was killed
+[23Jan2025 21:47:11.845] [Server thread/WARN] [tombstone/]: The death event of the player sam.va.lentin was canceled by another mod
+[23Jan2025 21:47:11.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed sam.va.lentin
+[23Jan2025 21:47:11.846] [Server thread/INFO] [tombstone/]: The player sam.va.lentin has successfully been saved
+[23Jan2025 21:51:53.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sam.va.lentin: Set own game mode to Creative Mode]
+[23Jan2025 21:52:18.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Migueelolabarria) moved wrongly! 0.30876746936462496
+[23Jan2025 21:52:18.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Migueelolabarria) moved wrongly! 0.5563737841266629
+[23Jan2025 21:54:08.140] [Worker-Main-29/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[23Jan2025 21:54:08.144] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[23Jan2025 21:54:08.151] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-57, z=-313}
+[23Jan2025 21:54:08.152] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=-57, z=-313}
+[23Jan2025 21:54:08.152] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-57, z=-313}
+[23Jan2025 21:54:08.186] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[23Jan2025 21:54:08.199] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=-57, z=-315}
+[23Jan2025 21:54:08.199] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=-57, z=-315}
+[23Jan2025 21:54:08.200] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=-57, z=-315}
+[23Jan2025 21:54:08.985] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[23Jan2025 21:54:08.990] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[23Jan2025 21:54:08.990] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[23Jan2025 21:54:09.016] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[23Jan2025 21:54:09.016] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[23Jan2025 21:54:16.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sam.va.lentin: Teleported Migueelolabarria to sam.va.lentin]
+[23Jan2025 21:56:22.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sam.va.lentin: Set the time to 1000]
+[23Jan2025 21:56:36.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sam.va.lentin: Teleported Migueelolabarria to sam.va.lentin]
+[23Jan2025 21:57:32.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sam.va.lentin: Set own game mode to Survival Mode]
+[23Jan2025 21:58:39.309] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2846ms or 56 ticks behind
+[23Jan2025 22:04:25.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sam.va.lentin moved too quickly! 0.3879306404543428,-11.065575704402782,0.20920584915538143
+[23Jan2025 22:04:30.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sam.va.lentin is bleeding. sam.va.lentin tried to swim in lava
+[23Jan2025 22:04:30.934] [Server thread/WARN] [tombstone/]: The death event of the player sam.va.lentin was canceled by another mod
+[23Jan2025 22:04:30.935] [Server thread/INFO] [tombstone/]: The player sam.va.lentin has successfully been saved
+[23Jan2025 22:04:35.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sam.va.lentin tried to swim in lava
+[23Jan2025 22:04:35.861] [Server thread/INFO] [tombstone/]: The player sam.va.lentin has successfully been saved
+[23Jan2025 22:05:06.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sam.va.lentin was kicked for floating too long!
+[23Jan2025 22:05:06.384] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sam.va.lentin lost connection: Disconnected
+[23Jan2025 22:05:06.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sam.va.lentin left the game
+[23Jan2025 22:05:06.385] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client sam.va.lentin
+[23Jan2025 22:05:06.455] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Jan2025 22:05:32.281] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@11a73610[id=<null>,name=sam.va.lentin,properties={},legacy=false] (/127.39.198.30:55661) lost connection: Disconnected
+[23Jan2025 22:05:37.537] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sam.va.lentin[/127.39.198.30:35175] logged in with entity id 44797 at (153.23266366751352, 58.28549238931871, 111.79216891972334)
+[23Jan2025 22:05:37.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sam.va.lentin joined the game
+[23Jan2025 22:05:37.552] [Server thread/INFO] [Jade/]: Syncing config to sam.va.lentin (b5cf5bfe-a3fe-3966-979c-82206483a34f)
+[23Jan2025 22:05:37.974] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of sam.va.lentin (18)
+[23Jan2025 22:05:37.974] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to sam.va.lentin
+[23Jan2025 22:05:44.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sam.va.lentin was kicked for floating too long!
+[23Jan2025 22:05:44.582] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sam.va.lentin lost connection: Flying is not enabled on this server
+[23Jan2025 22:05:44.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sam.va.lentin left the game
+[23Jan2025 22:05:44.582] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client sam.va.lentin
+[23Jan2025 22:05:44.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Migueelolabarria has made the advancement [Ambush]
+[23Jan2025 22:05:52.740] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sam.va.lentin[/127.39.198.30:55883] logged in with entity id 45307 at (140.90482024107382, 42.86248849543773, 110.53533261805549)
+[23Jan2025 22:05:52.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sam.va.lentin joined the game
+[23Jan2025 22:05:52.756] [Server thread/INFO] [Jade/]: Syncing config to sam.va.lentin (b5cf5bfe-a3fe-3966-979c-82206483a34f)
+[23Jan2025 22:05:53.105] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of sam.va.lentin (18)
+[23Jan2025 22:05:53.105] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to sam.va.lentin
+[23Jan2025 22:08:29.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enekito04 has made the advancement [Isn't It Iron Pick]
+[23Jan2025 22:09:00.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sam.va.lentin has made the advancement [Crops of the Wild]
+[23Jan2025 22:11:21.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sam.va.lentin: Set the time to 1000]
+[23Jan2025 22:11:23.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[23Jan2025 22:11:32.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] SAMU ES GEY
+[23Jan2025 22:11:56.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] metete la mesa por el ano
+[23Jan2025 22:13:10.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Migueelolabarria has made the advancement [Ender Distancing]
+[23Jan2025 22:15:30.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enekito04 has made the advancement [Hunt and Gather]
+[23Jan2025 22:16:58.782] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sam.va.lentin lost connection: Disconnected
+[23Jan2025 22:16:58.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sam.va.lentin left the game
+[23Jan2025 22:16:58.782] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client sam.va.lentin
+[23Jan2025 22:19:37.427] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[23Jan2025 22:19:37.529] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[23Jan2025 22:19:37.628] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[23Jan2025 22:19:37.724] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[23Jan2025 22:19:37.825] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[23Jan2025 22:19:37.924] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[23Jan2025 22:19:38.028] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[23Jan2025 22:19:38.128] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
