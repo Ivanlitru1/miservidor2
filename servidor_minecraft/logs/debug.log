@@ -4566,3 +4566,110 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Jan2025 09:14:46.900] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/3680, l='ServerLevel[world]', x=8082.37, y=10.47, z=-35.79], dimensionLocationPath overworld
 [23Jan2025 09:14:46.900] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/3680, l='ServerLevel[world]', x=8082.37, y=10.47, z=-35.79] in list []
 [23Jan2025 09:14:47.704] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/3680, l='ServerLevel[world]', x=8082.75, y=8.00, z=-36.47, removed=DISCARDED]
+[23Jan2025 09:16:01.749] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jan2025 09:16:01.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jan2025 09:16:42.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Teleported Ivanesgey to 8512.500000, 170.612186, 208.500000]
+[23Jan2025 09:16:58.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Teleported Ivanesgey to 8512.500000, 143.992853, 208.500000]
+[23Jan2025 09:17:06.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Teleported Ivanesgey to 7496.500000, 143.992853, 2248.500000]
+[23Jan2025 09:18:18.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Teleported Ivanesgey to 13728.500000, 77.771576, 64.500000]
+[23Jan2025 09:18:18.304] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2418ms or 48 ticks behind
+[23Jan2025 09:18:31.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ivanesgey moved too quickly! -1.2087227756965149,-10.013606407967231,2.9792220238772416
+[23Jan2025 09:18:34.725] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/6336, l='ServerLevel[world]', x=13557.65, y=13.24, z=17.55], dimensionLocationPath overworld
+[23Jan2025 09:18:34.726] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/6336, l='ServerLevel[world]', x=13557.65, y=13.24, z=17.55] in list []
+[23Jan2025 09:18:34.726] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/6337, l='ServerLevel[world]', x=13554.37, y=13.17, z=22.62], dimensionLocationPath overworld
+[23Jan2025 09:18:34.726] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/6337, l='ServerLevel[world]', x=13554.37, y=13.17, z=22.62] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@18c0]
+[23Jan2025 09:18:34.726] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/6338, l='ServerLevel[world]', x=13553.37, y=13.15, z=28.44], dimensionLocationPath overworld
+[23Jan2025 09:18:34.726] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/6338, l='ServerLevel[world]', x=13553.37, y=13.15, z=28.44] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@18c0, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@18c1]
+[23Jan2025 09:18:36.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ivanesgey moved too quickly! -2.680088703684305,0.0,9.961240067437416
+[23Jan2025 09:18:36.736] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/6350, l='ServerLevel[world]', x=13553.54, y=13.37, z=33.30], dimensionLocationPath overworld
+[23Jan2025 09:18:36.736] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/6350, l='ServerLevel[world]', x=13553.54, y=13.37, z=33.30] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@18c0, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@18c1, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@18c2]
+[23Jan2025 09:18:41.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Migueelolabarria was shot by Pillager
+[23Jan2025 09:18:41.932] [Server thread/DEBUG] [tombstone/]: A new grave of the player Migueelolabarria was created at position [x:8434, y:60, z:421, dim:minecraft:overworld]
+[23Jan2025 09:18:41.942] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Migueelolabarria'/165, l='ServerLevel[world]', x=8434.83, y=60.75, z=421.34]
+[23Jan2025 09:18:41.956] [Server thread/INFO] [tombstone/]: The player Migueelolabarria has successfully been saved
+[23Jan2025 09:18:44.642] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[23Jan2025 09:18:47.053] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[23Jan2025 09:18:51.498] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/7019, l='ServerLevel[world]', x=13489.41, y=13.37, z=39.38], dimensionLocationPath overworld
+[23Jan2025 09:18:51.498] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/7019, l='ServerLevel[world]', x=13489.41, y=13.37, z=39.38] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@18c0, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@18c1, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@18c2, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@18ce]
+[23Jan2025 09:18:52.208] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/7027, l='ServerLevel[world]', x=13489.75, y=13.52, z=47.58], dimensionLocationPath overworld
+[23Jan2025 09:18:52.209] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/7027, l='ServerLevel[world]', x=13489.75, y=13.52, z=47.58] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@18c0, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@18c1, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@18c2, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@18ce, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1b6b]
+[23Jan2025 09:19:11.753] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:mansion/bottom_back_left
+[23Jan2025 09:19:11.756] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:mansion/bottom_back_left
+[23Jan2025 09:19:13.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Teleported Ivanesgey to 9480.500000, 98.834738, -4919.500000]
+[23Jan2025 09:19:13.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2349ms or 46 ticks behind
+[23Jan2025 09:19:14.735] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=287, y=-3, z=315}
+[23Jan2025 09:19:14.736] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=287, y=-2, z=315}
+[23Jan2025 09:19:14.770] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Migueelolabarria moved too quickly! 8.583804987567078,1.7521489003674589,-4.8793377479046285
+[23Jan2025 09:19:14.867] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/6336, l='ServerLevel[world]', x=13557.65, y=13.24, z=17.55, removed=UNLOADED_TO_CHUNK]
+[23Jan2025 09:19:14.867] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/6337, l='ServerLevel[world]', x=13554.37, y=13.17, z=22.62, removed=UNLOADED_TO_CHUNK]
+[23Jan2025 09:19:14.867] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/6338, l='ServerLevel[world]', x=13553.37, y=13.15, z=28.44, removed=UNLOADED_TO_CHUNK]
+[23Jan2025 09:19:14.867] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/6350, l='ServerLevel[world]', x=13553.54, y=13.37, z=33.30, removed=UNLOADED_TO_CHUNK]
+[23Jan2025 09:19:14.868] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/7019, l='ServerLevel[world]', x=13489.41, y=13.37, z=39.38, removed=UNLOADED_TO_CHUNK]
+[23Jan2025 09:19:14.868] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/7027, l='ServerLevel[world]', x=13489.75, y=13.52, z=47.58, removed=UNLOADED_TO_CHUNK]
+[23Jan2025 09:19:15.519] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=303, y=-8, z=294}
+[23Jan2025 09:19:15.522] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=303, y=-8, z=295}
+[23Jan2025 09:19:15.533] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=303, y=-8, z=296}
+[23Jan2025 09:19:15.536] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=304, y=-10, z=296}
+[23Jan2025 09:19:15.536] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=305, y=-10, z=296}
+[23Jan2025 09:19:15.537] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=306, y=-10, z=296}
+[23Jan2025 09:19:15.537] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=306, y=-11, z=294}
+[23Jan2025 09:19:15.538] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=306, y=-11, z=293}
+[23Jan2025 09:19:15.538] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=306, y=-11, z=292}
+[23Jan2025 09:19:16.156] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=286, y=6, z=319}
+[23Jan2025 09:19:16.156] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=286, y=7, z=319}
+[23Jan2025 09:19:17.522] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=307, y=-11, z=295}
+[23Jan2025 09:19:17.523] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=307, y=-11, z=291}
+[23Jan2025 09:19:17.925] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=282, y=-2, z=347}
+[23Jan2025 09:19:17.926] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {count:1,id:"minecraft:iron_axe"}
+[23Jan2025 09:19:17.990] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jan2025 09:19:18.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Migueelolabarria moved too quickly! 6.953218874801223,0.12129684053920187,-7.445082098038711
+[23Jan2025 09:19:21.106] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[23Jan2025 09:19:21.107] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[23Jan2025 09:19:21.107] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[23Jan2025 09:19:21.107] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[23Jan2025 09:19:21.154] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[23Jan2025 09:19:21.154] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[23Jan2025 09:19:21.154] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[23Jan2025 09:19:21.155] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[23Jan2025 09:19:21.160] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
+[23Jan2025 09:19:22.303] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[23Jan2025 09:19:22.303] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[23Jan2025 09:19:22.304] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[23Jan2025 09:19:22.305] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[23Jan2025 09:19:22.305] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[23Jan2025 09:19:22.306] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[23Jan2025 09:19:22.306] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[23Jan2025 09:19:22.314] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
+[23Jan2025 09:19:22.314] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
+[23Jan2025 09:19:22.314] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
+[23Jan2025 09:19:22.494] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[23Jan2025 09:19:22.495] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[23Jan2025 09:19:22.496] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[23Jan2025 09:19:22.496] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[23Jan2025 09:19:22.497] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[23Jan2025 09:19:22.523] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
+[23Jan2025 09:19:22.525] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
+[23Jan2025 09:20:07.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Migueelolabarria was doomed to fall by Skeleton
+[23Jan2025 09:20:07.523] [Server thread/INFO] [tombstone/]: The player Migueelolabarria has successfully been saved
+[23Jan2025 09:20:11.755] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Migueelolabarria lost connection: Disconnected
+[23Jan2025 09:20:11.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Migueelolabarria left the game
+[23Jan2025 09:20:53.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Teleported Ivanesgey to 26912.500000, 121.277023, -11695.500000]
+[23Jan2025 09:21:00.465] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
+[23Jan2025 09:21:00.466] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
+[23Jan2025 09:21:00.481] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[23Jan2025 09:21:00.481] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[23Jan2025 09:21:00.481] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[23Jan2025 09:21:00.482] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[23Jan2025 09:21:00.482] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[23Jan2025 09:21:00.491] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
+[23Jan2025 09:21:00.492] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
+[23Jan2025 09:21:00.492] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
+[23Jan2025 09:21:01.396] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[23Jan2025 09:21:01.396] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[23Jan2025 09:21:01.517] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
+[23Jan2025 09:21:06.453] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jan2025 09:21:06.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jan2025 09:21:39.867] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[23Jan2025 09:21:48.815] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[23Jan2025 09:26:06.415] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jan2025 09:26:06.421] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
