@@ -981,3 +981,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'vinery:dark_cherry'
 [23Jan2025 23:07:45.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Enekito04) moved wrongly! 0.4579073050773559
 [23Jan2025 23:07:45.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Enekito04) moved wrongly! 0.4902856883916229
 [23Jan2025 23:07:45.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Enekito04) moved wrongly! 0.5194262326024841
+[23Jan2025 23:13:35.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Migueelolabarria is bleeding. Migueelolabarria was killed whilst fighting Phantom
+[23Jan2025 23:13:35.382] [Server thread/WARN] [tombstone/]: The death event of the player Migueelolabarria was canceled by another mod
+[23Jan2025 23:13:35.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed Migueelolabarria
+[23Jan2025 23:13:35.383] [Server thread/INFO] [tombstone/]: The player Migueelolabarria has successfully been saved
+[23Jan2025 23:14:05.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[23Jan2025 23:14:11.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] viva vox
+[23Jan2025 23:16:56.978] [Server thread/INFO] [journeymap/]: mp (FileLoaded) Setting config file to version "5.10.3": journeymap.server.mp.config
+[23Jan2025 23:17:02.989] [Server thread/INFO] [journeymap/]: mp (FileLoaded) Setting config file to version "5.10.3": journeymap.server.mp.config
+[23Jan2025 23:21:03.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Migueelolabarria> RT
