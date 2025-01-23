@@ -747,3 +747,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'vinery:dark_cherry'
 [23Jan2025 21:22:19.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sam.va.lentin: Teleported sam.va.lentin to Migueelolabarria]
 [23Jan2025 21:24:11.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sam.va.lentin: Set own game mode to Survival Mode]
 [23Jan2025 21:25:40.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sam.va.lentin has made the advancement [Alex's Mobs]
+[23Jan2025 21:34:44.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sam.va.lentin: Set the time to 1000]

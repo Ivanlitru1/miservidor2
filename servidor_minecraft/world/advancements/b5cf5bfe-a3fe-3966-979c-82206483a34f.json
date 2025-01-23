@@ -2872,6 +2872,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-01-23 21:28:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/storage_module": {
     "criteria": {
       "has_iron": "2025-01-23 21:20:20 +0000"
@@ -2893,6 +2899,12 @@
   "securitycraft:recipes/transportation/track_mine": {
     "criteria": {
       "has_iron": "2025-01-23 21:20:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2025-01-23 21:28:31 +0000"
     },
     "done": true
   },
@@ -2962,6 +2974,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-23 21:28:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-01-23 21:28:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/electrified_iron_fence": {
     "criteria": {
       "has_iron": "2025-01-23 21:20:20 +0000"
@@ -3016,6 +3040,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/bridge_lantern": {
+    "criteria": {
+      "has_planks": "2025-01-23 21:31:17 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-23 21:20:20 +0000"
@@ -3043,6 +3073,12 @@
   "travelersbackpack:recipes/misc/diamond": {
     "criteria": {
       "has_diamond": "2025-01-23 21:26:08 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/bridge_torch": {
+    "criteria": {
+      "has_planks": "2025-01-23 21:31:21 +0000"
     },
     "done": true
   },
@@ -3148,6 +3184,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/coal": {
+    "criteria": {
+      "has_coal": "2025-01-23 21:31:17 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/acacia_wine_rack_big": {
     "criteria": {
       "has_acacia_planks": "2025-01-23 21:22:51 +0000"
@@ -3205,6 +3247,12 @@
   "securitycraft:recipes/redstone/block_change_detector": {
     "criteria": {
       "has_iron": "2025-01-23 21:20:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/laser_block": {
+    "criteria": {
+      "has_stone": "2025-01-23 21:28:31 +0000"
     },
     "done": true
   },
@@ -3274,6 +3322,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-23 21:28:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_cherry_fence": {
     "criteria": {
       "has_stick": "2025-01-23 21:20:20 +0000"
@@ -3295,6 +3349,12 @@
   "travelersbackpack:recipes/misc/hose_nozzle": {
     "criteria": {
       "has_iron": "2025-01-23 21:20:20 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/cobblestone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-01-23 21:28:31 +0000"
     },
     "done": true
   },
@@ -3322,6 +3382,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-01-23 21:32:10 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-01-23 21:32:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/smart_module": {
     "criteria": {
       "has_iron": "2025-01-23 21:20:20 +0000"
@@ -3346,6 +3418,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2025-01-23 21:28:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_lectern": {
     "criteria": {
       "has_bookshelf": "2025-01-23 21:28:12 +0000"
@@ -3358,9 +3436,27 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/cobblestone_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-01-23 21:28:31 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_cobblestone_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-23 21:28:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-01-23 21:20:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-01-23 21:28:31 +0000"
     },
     "done": true
   },
@@ -3388,9 +3484,27 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/chandelier": {
+    "criteria": {
+      "has_torch": "2025-01-23 21:31:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_spruce_fence": {
     "criteria": {
       "has_stick": "2025-01-23 21:20:20 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2025-01-23 21:31:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-23 21:28:47 +0000"
     },
     "done": true
   },
