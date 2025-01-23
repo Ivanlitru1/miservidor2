@@ -366,3 +366,5 @@
 [23Jan2025 09:21:01.517] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
 [23Jan2025 09:21:39.867] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
 [23Jan2025 09:21:48.815] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[23Jan2025 09:42:51.044] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ivanesgey lost connection: Disconnected
+[23Jan2025 09:42:51.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanesgey left the game
