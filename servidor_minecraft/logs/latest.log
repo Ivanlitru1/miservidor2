@@ -838,3 +838,142 @@ com.google.gson.JsonSyntaxException: Unknown item 'vinery:dark_cherry'
 [23Jan2025 22:36:25.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Migueelolabarria has made the advancement [Isn't It Iron Pick]
 [23Jan2025 22:39:43.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sam.va.lentin> ttime set day
 [23Jan2025 22:39:55.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sam.va.lentin: Set the time to 1000]
+[23Jan2025 22:47:24.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Migueelolabarria has made the advancement [Capsid-19]
+[23Jan2025 22:47:26.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[23Jan2025 22:47:26.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: players<--[HERE]
+[23Jan2025 22:47:30.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /advancement (grant|revoke)
+[23Jan2025 22:47:30.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /attribute <target> <attribute> (get|base|modifier)
+[23Jan2025 22:47:30.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[23Jan2025 22:47:30.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bossbar (add|remove|list|set|get)
+[23Jan2025 22:47:30.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clear [<targets>]
+[23Jan2025 22:47:30.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clone (<begin>|from)
+[23Jan2025 22:47:30.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /damage <target> <amount> [<damageType>]
+[23Jan2025 22:47:30.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /data (merge|get|remove|modify)
+[23Jan2025 22:47:30.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /datapack (enable|disable|list)
+[23Jan2025 22:47:30.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /debug (start|stop|function)
+[23Jan2025 22:47:30.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /defaultgamemode <gamemode>
+[23Jan2025 22:47:30.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /difficulty [peaceful|easy|normal|hard]
+[23Jan2025 22:47:30.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /effect (clear|give)
+[23Jan2025 22:47:30.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /me <action>
+[23Jan2025 22:47:30.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /enchant <targets> <enchantment> [<level>]
+[23Jan2025 22:47:30.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /experience (add|set|query)
+[23Jan2025 22:47:30.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /xp -> experience
+[23Jan2025 22:47:30.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[23Jan2025 22:47:30.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fillbiome <from> <to> <biome> [replace]
+[23Jan2025 22:47:30.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forceload (add|remove|query)
+[23Jan2025 22:47:30.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /function <name>
+[23Jan2025 22:47:30.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamemode <gamemode> [<target>]
+[23Jan2025 22:47:30.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|fakeLavaSourceConversion|fakeWaterSourceConversion|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[23Jan2025 22:47:30.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /give <targets> <item> [<count>]
+[23Jan2025 22:47:30.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /help [<command>]
+[23Jan2025 22:47:30.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /item (replace|modify)
+[23Jan2025 22:47:30.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kick <targets> [<reason>]
+[23Jan2025 22:47:30.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kill [<targets>]
+[23Jan2025 22:47:30.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /list [uuids]
+[23Jan2025 22:47:30.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /locate (structure|biome|poi)
+[23Jan2025 22:47:30.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /loot (replace|insert|give|spawn)
+[23Jan2025 22:47:30.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /msg <targets> <message>
+[23Jan2025 22:47:30.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tell -> msg
+[23Jan2025 22:47:30.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /w -> msg
+[23Jan2025 22:47:30.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /particle <name> [<pos>]
+[23Jan2025 22:47:30.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /place (feature|jigsaw|structure|template)
+[23Jan2025 22:47:30.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[23Jan2025 22:47:30.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /reload
+[23Jan2025 22:47:30.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /recipe (give|take)
+[23Jan2025 22:47:30.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /return <value>
+[23Jan2025 22:47:30.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ride <target> (mount|dismount)
+[23Jan2025 22:47:30.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /say <message>
+[23Jan2025 22:47:30.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /schedule (function|clear)
+[23Jan2025 22:47:30.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /scoreboard (objectives|players)
+[23Jan2025 22:47:30.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /seed
+[23Jan2025 22:47:30.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setblock <pos> <block> [destroy|keep|replace]
+[23Jan2025 22:47:30.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spawnpoint [<targets>]
+[23Jan2025 22:47:30.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setworldspawn [<pos>]
+[23Jan2025 22:47:30.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spectate [<target>]
+[23Jan2025 22:47:30.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[23Jan2025 22:47:30.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[23Jan2025 22:47:30.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /summon <entity> [<pos>]
+[23Jan2025 22:47:30.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tag <targets> (add|remove|list)
+[23Jan2025 22:47:30.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /team (list|add|remove|empty|join|leave|modify)
+[23Jan2025 22:47:30.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teammsg <message>
+[23Jan2025 22:47:30.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tm -> teammsg
+[23Jan2025 22:47:30.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teleport (<location>|<destination>|<targets>)
+[23Jan2025 22:47:30.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tp -> teleport
+[23Jan2025 22:47:30.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tellraw <targets> <message>
+[23Jan2025 22:47:30.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /time (set|add|query)
+[23Jan2025 22:47:30.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[23Jan2025 22:47:30.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /trigger <objective> [add|set]
+[23Jan2025 22:47:30.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /weather (clear|rain|thunder)
+[23Jan2025 22:47:30.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /worldborder (add|set|center|damage|get|warning)
+[23Jan2025 22:47:30.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /jfr (start|stop)
+[23Jan2025 22:47:30.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban-ip <target> [<reason>]
+[23Jan2025 22:47:30.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /banlist [ips|players]
+[23Jan2025 22:47:30.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban <targets> [<reason>]
+[23Jan2025 22:47:30.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deop <targets>
+[23Jan2025 22:47:30.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /op <targets>
+[23Jan2025 22:47:30.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon <targets>
+[23Jan2025 22:47:30.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon-ip <target>
+[23Jan2025 22:47:30.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /perf (start|stop)
+[23Jan2025 22:47:30.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-all [flush]
+[23Jan2025 22:47:30.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-off
+[23Jan2025 22:47:30.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-on
+[23Jan2025 22:47:30.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setidletimeout <minutes>
+[23Jan2025 22:47:30.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stop
+[23Jan2025 22:47:30.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /whitelist (on|off|list|add|remove|reload)
+[23Jan2025 22:47:30.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setlabel <location> (label|item)
+[23Jan2025 22:47:30.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /labelconfig (add-item|remove-item|add-tag|remove-tag)
+[23Jan2025 22:47:30.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /carryon (debug|clear|place)
+[23Jan2025 22:47:30.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /chunky [cancel|center|confirm|continue|corners|help|pattern|pause|progress|quiet|radius|reload|selection|shape|silent|spawn|start|trim|worldborder|world]
+[23Jan2025 22:47:30.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbacceptteleport [<target>]
+[23Jan2025 22:47:30.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbbind [show|set|teleport]
+[23Jan2025 22:47:30.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbgui
+[23Jan2025 22:47:30.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbknowledge [<player>]
+[23Jan2025 22:47:30.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbalignment [<player>]
+[23Jan2025 22:47:30.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbrecovery [save_all_players|save_player|load_player]
+[23Jan2025 22:47:30.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbrequestteleport [<target>]
+[23Jan2025 22:47:30.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbrestoreinventory [<player>]
+[23Jan2025 22:47:30.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbrevivefamiliar [<player>]
+[23Jan2025 22:47:30.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbshowlastgrave [<player>]
+[23Jan2025 22:47:30.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbsiege [start|stop]
+[23Jan2025 22:47:30.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbteleport [pos|player|grave|death|home|discovery|biome]
+[23Jan2025 22:47:30.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tb (access|restore|remove|clear|unpack)
+[23Jan2025 22:47:30.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
+[23Jan2025 22:47:30.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /feclass <entClass>
+[23Jan2025 22:47:30.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spawninfernal <x> <y> <z> <entClass> <modifiers>
+[23Jan2025 22:47:30.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /mca-admin (help|clearLoadedVillagers|restoreClearedVillagers|forceBuildingType|forceFullHearts|forceBabyGrowth|forceChildGrowth|incrementHearts|decrementHearts|resetPlayerData|resetMarriage|listVillages|assumeNameDead|assumeUuidDead|removeVillageWithId|convertVanillaVillagers|removeVillage|buildingProcessingRate)
+[23Jan2025 22:47:30.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /mca (help|propose|accept|proposals|procreate|separate|reject|editor|destiny|mail|verify|chatAI|inworldAI)
+[23Jan2025 22:47:30.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /jade (show|hide)
+[23Jan2025 22:47:30.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /brutalbosses spawnboss [<bossID>]
+[23Jan2025 22:47:30.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
+[23Jan2025 22:47:30.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sc (bug|connect|convert|dump|help|owner)
+[23Jan2025 22:47:30.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /securitycraft (bug|connect|convert|dump|help|owner)
+[23Jan2025 22:47:30.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /create (rainbowDebug|overlay|trains|fixLighting|debuginfo|highlight|killTrain|passenger|coupling|config|ponder|clone|glue|util|u)
+[23Jan2025 22:47:30.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /c (rainbowDebug|overlay|trains|fixLighting|debuginfo|highlight|killTrain|passenger|coupling|config|ponder|clone|glue|util|u)
+[23Jan2025 22:47:30.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /undo_excavation
+[23Jan2025 22:47:30.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /waypoint (create|delete)
+[23Jan2025 22:47:30.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /wp -> waypoint
+[23Jan2025 22:47:30.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /polymorph conflicts
+[23Jan2025 22:47:30.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /voicechat [help|test|invite|join|leave]
+[23Jan2025 22:47:30.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /prettypipes (dump|uncache|unlock)
+[23Jan2025 22:47:30.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /revive <players>
+[23Jan2025 22:47:30.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /cmdconfig
+[23Jan2025 22:47:48.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made sam.va.lentin no longer a server operator
+[23Jan2025 22:48:11.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A player is required to run this command here
+[23Jan2025 22:48:52.642] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2628ms or 52 ticks behind
+[23Jan2025 22:48:52.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sam.va.lentin moved too quickly! -8.481813911303561,0.0,5.486767556140421
+[23Jan2025 22:49:39.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made sam.va.lentin a server operator
+[23Jan2025 22:49:50.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sam.va.lentin: Set own game mode to Survival Mode]
+[23Jan2025 22:51:22.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enekito04 is bleeding. Enekito04 was slain by Enderman
+[23Jan2025 22:51:22.039] [Server thread/WARN] [tombstone/]: The death event of the player Enekito04 was canceled by another mod
+[23Jan2025 22:51:22.047] [Server thread/INFO] [tombstone/]: The player Enekito04 has successfully been saved
+[23Jan2025 22:51:32.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enekito04 has reached the goal [Strong or Careful]
+[23Jan2025 22:51:32.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enekito04 was slain by Enderman
+[23Jan2025 22:52:55.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enekito04 has made the advancement [Gone Bananas!]
+[23Jan2025 22:55:08.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enekito04 has made the advancement [Ashes 'n Bones]
+[23Jan2025 22:55:25.485] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sam.va.lentin lost connection: Disconnected
+[23Jan2025 22:55:25.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sam.va.lentin left the game
+[23Jan2025 22:55:25.486] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client sam.va.lentin
+[23Jan2025 22:57:12.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enekito04 is bleeding. Enekito04 was shot by Skeleton
+[23Jan2025 22:57:12.578] [Server thread/WARN] [tombstone/]: The death event of the player Enekito04 was canceled by another mod
+[23Jan2025 22:57:12.579] [Server thread/INFO] [tombstone/]: The player Enekito04 has successfully been saved
+[23Jan2025 22:57:21.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enekito04 was shot by Skeleton
