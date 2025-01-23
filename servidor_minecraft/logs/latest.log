@@ -730,3 +730,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'vinery:dark_cherry'
 [23Jan2025 21:02:45.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
 [23Jan2025 21:04:22.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Migueelolabarria has made the advancement [Scarlet Temptation]
 [23Jan2025 21:05:18.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[23Jan2025 21:09:36.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Migueelolabarria is bleeding. Migueelolabarria was slain by Sargent the Soaked
+[23Jan2025 21:09:36.120] [Server thread/WARN] [tombstone/]: The death event of the player Migueelolabarria was canceled by another mod
+[23Jan2025 21:09:36.124] [Server thread/INFO] [tombstone/]: The player Migueelolabarria has successfully been saved
+[23Jan2025 21:10:11.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected float
+[23Jan2025 21:10:11.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: time set day
+/kill @e<--[HERE]
+[23Jan2025 21:16:40.457] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [comforts:main,alexsmobs:main_channel,playerrevive:main,cookingforblockheads:network,chipped:main,creativecore:main,citadel:main_channel,securitycraft:securitycraft,personality:net,blueprint:net,elevatorid:main_channel,geckolib:main,prettypipes:network,polymorph:main] rejected their client side version number
+[23Jan2025 21:16:40.458] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[23Jan2025 21:16:40.471] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3c1c4c18[id=<null>,name=sam.va.lentin,properties={},legacy=false] (/127.39.198.30:46273) lost connection: Connection closed - mismatched mod channel list
+[23Jan2025 21:20:20.889] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sam.va.lentin[/127.39.198.30:36377] logged in with entity id 16047 at (8619.008279633703, 82.0, 183.4495204904292)
+[23Jan2025 21:20:20.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sam.va.lentin joined the game
+[23Jan2025 21:20:20.943] [Server thread/INFO] [Jade/]: Syncing config to sam.va.lentin (b5cf5bfe-a3fe-3966-979c-82206483a34f)
+[23Jan2025 21:20:22.882] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of sam.va.lentin (18)
+[23Jan2025 21:20:22.883] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to sam.va.lentin
+[23Jan2025 21:22:19.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sam.va.lentin: Teleported sam.va.lentin to Migueelolabarria]
+[23Jan2025 21:24:11.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sam.va.lentin: Set own game mode to Survival Mode]
+[23Jan2025 21:25:40.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sam.va.lentin has made the advancement [Alex's Mobs]

@@ -1892,6 +1892,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/dark_oak_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-01-23 21:10:26 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_white_wool": "2025-01-23 20:42:20 +0000"
@@ -2096,6 +2102,12 @@
     },
     "done": true
   },
+  "vinery:recipes/dark_oak_wine_rack_big": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-01-23 21:10:26 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/acacia_wine_rack_big": {
     "criteria": {
       "has_acacia_planks": "2025-01-23 20:30:35 +0000"
@@ -2138,6 +2150,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_support": {
+    "criteria": {
+      "has_plank": "2025-01-23 21:10:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2025-01-23 20:31:09 +0000"
@@ -2156,6 +2174,12 @@
     },
     "done": true
   },
+  "vinery:recipes/dark_oak_wine_rack_small": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-01-23 21:10:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/block_change_detector": {
     "criteria": {
       "has_iron": "2025-01-23 20:53:40 +0000"
@@ -2165,6 +2189,12 @@
   "securitycraft:recipes/redstone/laser_block": {
     "criteria": {
       "has_stone": "2025-01-23 20:32:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-01-23 21:12:08 +0000"
     },
     "done": true
   },
@@ -2261,6 +2291,12 @@
   "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-23 20:31:09 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_dark_oak_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-23 21:10:26 +0000"
     },
     "done": true
   },
@@ -2378,9 +2414,21 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_seat": {
+    "criteria": {
+      "has_plank": "2025-01-23 21:10:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-01-23 20:48:12 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-01-23 21:10:26 +0000"
     },
     "done": true
   },
