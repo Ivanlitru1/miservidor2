@@ -977,3 +977,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'vinery:dark_cherry'
 [23Jan2025 22:57:12.578] [Server thread/WARN] [tombstone/]: The death event of the player Enekito04 was canceled by another mod
 [23Jan2025 22:57:12.579] [Server thread/INFO] [tombstone/]: The player Enekito04 has successfully been saved
 [23Jan2025 22:57:21.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enekito04 was shot by Skeleton
+[23Jan2025 23:07:45.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Enekito04) moved wrongly! 0.42193132266402245
+[23Jan2025 23:07:45.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Enekito04) moved wrongly! 0.4579073050773559
+[23Jan2025 23:07:45.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Enekito04) moved wrongly! 0.4902856883916229
+[23Jan2025 23:07:45.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Enekito04) moved wrongly! 0.5194262326024841

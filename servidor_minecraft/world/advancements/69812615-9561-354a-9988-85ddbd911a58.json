@@ -19,6 +19,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-01-23 23:05:49 +0000",
       "minecraft:bamboo_jungle": "2025-01-23 22:14:56 +0000",
       "minecraft:beach": "2025-01-22 22:12:06 +0000",
       "minecraft:sparse_jungle": "2025-01-22 22:11:43 +0000",
@@ -2196,6 +2197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-01-23 23:07:38 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_popsicle": {
     "criteria": {
       "has_melon": "2025-01-23 22:00:49 +0000"
@@ -2527,6 +2534,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-01-23 23:07:38 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_ham": {
     "criteria": {
       "ham": "2025-01-23 22:15:36 +0000"
@@ -2620,6 +2633,12 @@
   "travelersbackpack:recipes/misc/diamond": {
     "criteria": {
       "has_diamond": "2025-01-23 22:08:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-01-23 23:07:38 +0000"
     },
     "done": true
   },
@@ -3245,6 +3264,12 @@
   "vinery:recipes/oak_wine_rack_big": {
     "criteria": {
       "has_oak_planks": "2025-01-23 21:53:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-23 23:07:38 +0000"
     },
     "done": true
   },
