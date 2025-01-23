@@ -1790,6 +1790,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-01-23 21:04:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2025-01-23 20:30:35 +0000"
@@ -1895,6 +1901,12 @@
   "create:recipes/building_blocks/acacia_window": {
     "criteria": {
       "has_ingredient": "2025-01-23 20:30:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-01-23 21:04:20 +0000"
     },
     "done": true
   },
@@ -2393,6 +2405,12 @@
   "mcwbridges:recipes/rope_acacia_bridge": {
     "criteria": {
       "has_planks": "2025-01-23 20:30:35 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/get_apple": {
+    "criteria": {
+      "apple": "2025-01-23 21:04:22 +0000"
     },
     "done": true
   },

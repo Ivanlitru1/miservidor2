@@ -726,3 +726,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'vinery:dark_cherry'
 [23Jan2025 20:54:04.127] [Server thread/WARN] [tombstone/]: The death event of the player Migueelolabarria was canceled by another mod
 [23Jan2025 20:54:04.131] [Server thread/INFO] [tombstone/]: The player Migueelolabarria has successfully been saved
 [23Jan2025 20:55:04.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Migueelolabarria was slain by Vindicator
+[23Jan2025 20:59:04.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Migueelolabarria moved wrongly!
+[23Jan2025 21:02:45.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[23Jan2025 21:04:22.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Migueelolabarria has made the advancement [Scarlet Temptation]
+[23Jan2025 21:05:18.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
