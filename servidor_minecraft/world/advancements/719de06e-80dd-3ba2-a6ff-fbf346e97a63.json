@@ -2031,27 +2031,75 @@
     },
     "done": true
   },
-  "mcwwindows:recipes/diorite": {
+  "naturalist:recipes/food/cooked_egg": {
     "criteria": {
-      "has_the_recipe": "2025-01-23 16:26:44 +0000"
+      "has_eggs": "2025-01-23 16:04:36 +0000"
     },
     "done": true
   },
-  "mcwwindows:recipes/warped": {
+  "mcwbridges:recipes/bridge_torch": {
     "criteria": {
-      "has_the_recipe": "2025-01-23 16:26:44 +0000"
+      "has_planks": "2025-01-23 16:04:36 +0000"
     },
     "done": true
   },
-  "mcwwindows:recipes/dark_oak": {
+  "vinery:main/root": {
     "criteria": {
-      "has_the_recipe": "2025-01-23 16:26:44 +0000"
+      "seeds": "2025-01-23 16:04:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+  "farmersdelight:main/root": {
     "criteria": {
-      "has_stone_bricks": "2025-01-23 16:26:47 +0000"
+      "seeds": "2025-01-23 16:04:36 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/chandelier": {
+    "criteria": {
+      "has_torch": "2025-01-23 16:04:36 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2025-01-23 16:04:36 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/get_wine": {
+    "criteria": {
+      "have_any_wine": "2025-01-23 16:05:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-23 16:05:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-01-23 16:12:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/remote_access_sentry": {
+    "criteria": {
+      "has_sentry": "2025-01-23 16:15:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-23 16:19:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-01-23 16:19:46 +0000"
     },
     "done": true
   },
@@ -2059,30 +2107,6 @@
     "criteria": {
       "has_wood": "2025-01-23 16:20:20 +0000",
       "has_the_recipe": "2025-01-23 16:20:20 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorative_blocks.general/brazier": {
-    "criteria": {
-      "has_bar": "2025-01-23 16:41:52 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/dark_prismarine": {
-    "criteria": {
-      "has_the_recipe": "2025-01-23 16:26:44 +0000"
-    },
-    "done": true
-  },
-  "naturalist:recipes/food/cooked_egg": {
-    "criteria": {
-      "has_eggs": "2025-01-23 16:04:36 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/components": {
-    "criteria": {
-      "has_wood": "2025-01-23 16:26:44 +0000"
     },
     "done": true
   },
@@ -2099,81 +2123,9 @@
     },
     "done": true
   },
-  "mcwwindows:recipes/birch": {
-    "criteria": {
-      "has_the_recipe": "2025-01-23 16:26:44 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/cherry": {
-    "criteria": {
-      "has_the_recipe": "2025-01-23 16:26:44 +0000"
-    },
-    "done": true
-  },
   "decorative_blocks:recipes/decorative_blocks.general/oak_support": {
     "criteria": {
       "has_plank": "2025-01-23 16:20:20 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/skeleton": {
-    "criteria": {
-      "has_arrow": "2025-01-23 16:42:28 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/combat/crafting/appliances/netherite_backtank": {
-    "criteria": {
-      "has_item": "2025-01-23 16:40:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stone_bricks": "2025-01-23 16:26:47 +0000"
-    },
-    "done": true
-  },
-  "vinery:main/get_wine": {
-    "criteria": {
-      "have_any_wine": "2025-01-23 16:05:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-01-23 16:26:47 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/spruce": {
-    "criteria": {
-      "has_the_recipe": "2025-01-23 16:26:44 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/bridge_torch": {
-    "criteria": {
-      "has_planks": "2025-01-23 16:04:36 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/stone": {
-    "criteria": {
-      "has_the_recipe": "2025-01-23 16:26:44 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/remote_access_sentry": {
-    "criteria": {
-      "has_sentry": "2025-01-23 16:15:20 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/crimson": {
-    "criteria": {
-      "has_the_recipe": "2025-01-23 16:26:44 +0000"
     },
     "done": true
   },
@@ -2183,117 +2135,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/sc_manual": {
-    "criteria": {
-      "has_wood": "2025-01-23 16:26:44 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/grass_slab": {
-    "criteria": {
-      "has_grass_block": "2025-01-23 16:20:42 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/jungle": {
-    "criteria": {
-      "has_the_recipe": "2025-01-23 16:26:44 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/dog_food": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-23 16:19:46 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/stackable_log": {
-    "criteria": {
-      "has_oak_log": "2025-01-23 16:26:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall": {
-    "criteria": {
-      "has_stone_bricks": "2025-01-23 16:26:47 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/oak": {
-    "criteria": {
-      "has_wood": "2025-01-23 16:26:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2025-01-23 16:12:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
-    "criteria": {
-      "has_stone_bricks": "2025-01-23 16:26:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-01-23 16:26:47 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorative_blocks.general/oak_palisade": {
-    "criteria": {
-      "has_log": "2025-01-23 16:26:44 +0000"
-    },
-    "done": true
-  },
   "decorative_blocks:recipes/decorative_blocks.general/oak_seat": {
     "criteria": {
       "has_plank": "2025-01-23 16:20:20 +0000"
     },
     "done": true
   },
-  "mcwwindows:recipes/blackstone": {
-    "criteria": {
-      "has_the_recipe": "2025-01-23 16:26:44 +0000"
-    },
-    "done": true
-  },
-  "create:wrench_goggles": {
-    "criteria": {
-      "1": "2025-01-23 16:48:09 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_tag": "2025-01-23 16:26:47 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorative_blocks.general/soul_brazier": {
-    "criteria": {
-      "has_bar": "2025-01-23 16:41:52 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/asian_red_bridge": {
     "criteria": {
       "has_planks": "2025-01-23 16:20:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-01-23 16:05:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-01-23 16:26:47 +0000"
     },
     "done": true
   },
@@ -2315,15 +2165,117 @@
     },
     "done": true
   },
-  "decorative_blocks:recipes/decorative_blocks.general/stone_pillar": {
+  "vinery:recipes/oak_wine_rack_big": {
     "criteria": {
-      "has_stone": "2025-01-23 16:44:08 +0000"
+      "has_oak_planks": "2025-01-23 16:20:20 +0000"
     },
     "done": true
   },
-  "vinery:main/root": {
+  "vinery:recipes/oak_wine_rack_small": {
     "criteria": {
-      "seeds": "2025-01-23 16:04:36 +0000"
+      "has_oak_planks": "2025-01-23 16:20:20 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grass_slab": {
+    "criteria": {
+      "has_grass_block": "2025-01-23 16:20:42 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/diorite": {
+    "criteria": {
+      "has_the_recipe": "2025-01-23 16:26:44 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/warped": {
+    "criteria": {
+      "has_the_recipe": "2025-01-23 16:26:44 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/dark_oak": {
+    "criteria": {
+      "has_the_recipe": "2025-01-23 16:26:44 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/dark_prismarine": {
+    "criteria": {
+      "has_the_recipe": "2025-01-23 16:26:44 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/components": {
+    "criteria": {
+      "has_wood": "2025-01-23 16:26:44 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/birch": {
+    "criteria": {
+      "has_the_recipe": "2025-01-23 16:26:44 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/cherry": {
+    "criteria": {
+      "has_the_recipe": "2025-01-23 16:26:44 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/spruce": {
+    "criteria": {
+      "has_the_recipe": "2025-01-23 16:26:44 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/stone": {
+    "criteria": {
+      "has_the_recipe": "2025-01-23 16:26:44 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/crimson": {
+    "criteria": {
+      "has_the_recipe": "2025-01-23 16:26:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-01-23 16:26:44 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/jungle": {
+    "criteria": {
+      "has_the_recipe": "2025-01-23 16:26:44 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/stackable_log": {
+    "criteria": {
+      "has_oak_log": "2025-01-23 16:26:44 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-01-23 16:26:44 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/oak_palisade": {
+    "criteria": {
+      "has_log": "2025-01-23 16:26:44 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/blackstone": {
+    "criteria": {
+      "has_the_recipe": "2025-01-23 16:26:44 +0000"
     },
     "done": true
   },
@@ -2357,6 +2309,66 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/acacia": {
+    "criteria": {
+      "has_the_recipe": "2025-01-23 16:26:44 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/prismarine": {
+    "criteria": {
+      "has_the_recipe": "2025-01-23 16:26:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-23 16:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-23 16:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-23 16:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-23 16:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-23 16:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-23 16:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-01-23 16:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-23 16:26:47 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_stone_bricks_bridge": {
     "criteria": {
       "has_planks": "2025-01-23 16:26:47 +0000"
@@ -2369,33 +2381,45 @@
     },
     "done": true
   },
-  "farmersdelight:main/root": {
+  "mcwbridges:recipes/stone_bridge_pier": {
     "criteria": {
-      "seeds": "2025-01-23 16:04:36 +0000"
+      "has_planks": "2025-01-23 16:26:47 +0000"
     },
     "done": true
   },
-  "vinery:recipes/oak_wine_rack_big": {
+  "mcwbridges:recipes/stone_brick_bridge": {
     "criteria": {
-      "has_oak_planks": "2025-01-23 16:20:20 +0000"
+      "has_planks": "2025-01-23 16:26:47 +0000"
     },
     "done": true
   },
-  "mcwwindows:recipes/acacia": {
+  "create:recipes/combat/crafting/appliances/netherite_backtank": {
     "criteria": {
-      "has_the_recipe": "2025-01-23 16:26:44 +0000"
+      "has_item": "2025-01-23 16:40:33 +0000"
     },
     "done": true
   },
-  "vinery:recipes/oak_wine_rack_small": {
+  "decorative_blocks:recipes/decorative_blocks.general/brazier": {
     "criteria": {
-      "has_oak_planks": "2025-01-23 16:20:20 +0000"
+      "has_bar": "2025-01-23 16:41:52 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+  "decorative_blocks:recipes/decorative_blocks.general/soul_brazier": {
     "criteria": {
-      "has_rotten_flesh": "2025-01-23 16:19:46 +0000"
+      "has_bar": "2025-01-23 16:41:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-01-23 16:42:28 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/stone_pillar": {
+    "criteria": {
+      "has_stone": "2025-01-23 16:44:08 +0000"
     },
     "done": true
   },
@@ -2405,35 +2429,11 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/stone_bridge_pier": {
+  "create:wrench_goggles": {
     "criteria": {
-      "has_planks": "2025-01-23 16:26:47 +0000"
+      "1": "2025-01-23 16:48:09 +0000"
     },
-    "done": true
-  },
-  "mcwwindows:recipes/prismarine": {
-    "criteria": {
-      "has_the_recipe": "2025-01-23 16:26:44 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorative_blocks.general/chandelier": {
-    "criteria": {
-      "has_torch": "2025-01-23 16:04:36 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
-    "criteria": {
-      "has_torch": "2025-01-23 16:04:36 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/stone_brick_bridge": {
-    "criteria": {
-      "has_planks": "2025-01-23 16:26:47 +0000"
-    },
-    "done": true
+    "done": false
   },
   "DataVersion": 3465
 }

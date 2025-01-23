@@ -699,3 +699,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'vinery:dark_cherry'
 [23Jan2025 20:29:11.295] [Server thread/INFO] [Jade/]: Syncing config to Migueelolabarria (0e1e82f6-1192-3677-ba2d-6fd5a907c3eb)
 [23Jan2025 20:29:12.509] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Migueelolabarria (18)
 [23Jan2025 20:29:12.518] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Migueelolabarria
+[23Jan2025 20:42:37.680] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tonielnavajas[/127.27.243.213:43865] logged in with entity id 5172 at (821.5, 63.0, 1012.5)
+[23Jan2025 20:42:37.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonielnavajas joined the game
+[23Jan2025 20:42:37.752] [Server thread/INFO] [Jade/]: Syncing config to tonielnavajas (35923294-5464-37be-8ed8-8621324936be)
+[23Jan2025 20:42:38.581] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of tonielnavajas (18)
+[23Jan2025 20:42:38.582] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to tonielnavajas
+[23Jan2025 20:42:47.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] viva la coca
+[23Jan2025 20:42:51.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Migueelolabarria> hazte chisbeicon
+[23Jan2025 20:43:01.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Migueelolabarria) moved wrongly! 0.41330364544925025
+[23Jan2025 20:43:01.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Migueelolabarria) moved wrongly! 0.438738367296953
+[23Jan2025 20:43:01.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Migueelolabarria) moved wrongly! 0.4628302286455411
+[23Jan2025 20:43:01.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Migueelolabarria) moved wrongly! 0.48534042519891607
+[23Jan2025 20:44:12.656] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ivanesgey[/127.134.81.114:50259] logged in with entity id 6477 at (804.0703737768932, 98.1576018205568, 1009.9847074152226)
+[23Jan2025 20:44:12.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanesgey joined the game
+[23Jan2025 20:44:12.788] [Server thread/INFO] [Jade/]: Syncing config to Ivanesgey (719de06e-80dd-3ba2-a6ff-fbf346e97a63)
+[23Jan2025 20:44:14.228] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ivanesgey (18)
+[23Jan2025 20:44:14.228] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ivanesgey
+[23Jan2025 20:44:38.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ivanesgey: Set the time to 1000]
+[23Jan2025 20:45:51.388] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tonielnavajas lost connection: Disconnected
+[23Jan2025 20:45:51.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tonielnavajas left the game
+[23Jan2025 20:45:51.392] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client tonielnavajas
+[23Jan2025 20:46:27.376] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ivanesgey lost connection: Disconnected
+[23Jan2025 20:46:27.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanesgey left the game
+[23Jan2025 20:46:27.376] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ivanesgey
