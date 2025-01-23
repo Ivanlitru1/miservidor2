@@ -722,3 +722,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'vinery:dark_cherry'
 [23Jan2025 20:46:27.376] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ivanesgey lost connection: Disconnected
 [23Jan2025 20:46:27.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanesgey left the game
 [23Jan2025 20:46:27.376] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ivanesgey
+[23Jan2025 20:54:04.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Migueelolabarria is bleeding. Migueelolabarria was slain by Vindicator
+[23Jan2025 20:54:04.127] [Server thread/WARN] [tombstone/]: The death event of the player Migueelolabarria was canceled by another mod
+[23Jan2025 20:54:04.131] [Server thread/INFO] [tombstone/]: The player Migueelolabarria has successfully been saved
+[23Jan2025 20:55:04.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Migueelolabarria was slain by Vindicator
