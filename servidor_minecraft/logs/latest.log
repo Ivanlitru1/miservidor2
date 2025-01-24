@@ -713,3 +713,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'vinery:dark_cherry'
 [24Jan2025 19:36:24.534] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Enekito04 lost connection: Timed out
 [24Jan2025 19:36:24.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enekito04 left the game
 [24Jan2025 19:36:24.535] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Enekito04
+[24Jan2025 20:30:48.431] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ivanesgey lost connection: Disconnected
+[24Jan2025 20:30:48.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanesgey left the game
+[24Jan2025 20:30:48.432] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ivanesgey
