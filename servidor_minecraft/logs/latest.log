@@ -716,3 +716,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'vinery:dark_cherry'
 [24Jan2025 20:30:48.431] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ivanesgey lost connection: Disconnected
 [24Jan2025 20:30:48.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanesgey left the game
 [24Jan2025 20:30:48.432] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ivanesgey
+[24Jan2025 20:40:04.287] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Enekito04[/127.101.26.124:45985] logged in with entity id 14177 at (874.1664684729983, 73.0, -76.30000001192093)
+[24Jan2025 20:40:04.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enekito04 joined the game
+[24Jan2025 20:40:04.303] [Server thread/INFO] [Jade/]: Syncing config to Enekito04 (69812615-9561-354a-9988-85ddbd911a58)
+[24Jan2025 20:40:07.431] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Enekito04 (18)
+[24Jan2025 20:40:07.432] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Enekito04
+[24Jan2025 20:48:26.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enekito04 has made the advancement [Scarlet Temptation]
+[24Jan2025 20:58:31.233] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Enekito04 lost connection: Disconnected
+[24Jan2025 20:58:31.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enekito04 left the game
+[24Jan2025 20:58:31.234] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Enekito04
+[24Jan2025 21:01:26.673] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@13dfc19a[id=<null>,name=Enekito04,properties={},legacy=false] (/127.101.26.124:39591) lost connection: Disconnected
+[24Jan2025 21:01:40.635] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Enekito04[/127.101.26.124:46525] logged in with entity id 18053 at (838.9360813357492, 72.0, 227.71100047715896)
+[24Jan2025 21:01:40.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enekito04 joined the game
+[24Jan2025 21:01:40.656] [Server thread/INFO] [Jade/]: Syncing config to Enekito04 (69812615-9561-354a-9988-85ddbd911a58)
+[24Jan2025 21:01:44.531] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Enekito04 (18)
+[24Jan2025 21:01:44.532] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Enekito04
+[24Jan2025 21:13:19.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enekito04 has made the advancement [Hot Stuff]
+[24Jan2025 21:13:37.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enekito04 is bleeding. Enekito04 burned to death
+[24Jan2025 21:13:37.895] [Server thread/WARN] [tombstone/]: The death event of the player Enekito04 was canceled by another mod
+[24Jan2025 21:13:37.896] [Server thread/INFO] [tombstone/]: The player Enekito04 has successfully been saved
+[24Jan2025 21:13:57.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enekito04 burned to death
