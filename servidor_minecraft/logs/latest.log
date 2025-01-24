@@ -718,3 +718,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'vinery:dark_cherry'
 [24Jan2025 09:33:55.219] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ivanesgey
 [24Jan2025 09:39:49.272] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [24Jan2025 09:43:11.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Migueelolabarria> ivan de dia
+[24Jan2025 09:59:02.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Migueelolabarria has made the advancement [Mine? Mine? Mine?]
