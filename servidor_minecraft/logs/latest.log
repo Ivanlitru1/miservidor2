@@ -708,3 +708,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'vinery:dark_cherry'
 [24Jan2025 09:30:12.104] [Server thread/INFO] [Jade/]: Syncing config to Migueelolabarria (0e1e82f6-1192-3677-ba2d-6fd5a907c3eb)
 [24Jan2025 09:30:13.649] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Migueelolabarria (18)
 [24Jan2025 09:30:13.649] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Migueelolabarria
+[24Jan2025 09:33:40.332] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ivanesgey[/127.134.81.114:47895] logged in with entity id 1545 at (821.4807549333729, 102.1021358041481, 1006.003309878512)
+[24Jan2025 09:33:40.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanesgey joined the game
+[24Jan2025 09:33:40.422] [Server thread/INFO] [Jade/]: Syncing config to Ivanesgey (719de06e-80dd-3ba2-a6ff-fbf346e97a63)
+[24Jan2025 09:33:41.726] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Ivanesgey (18)
+[24Jan2025 09:33:41.727] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Ivanesgey
+[24Jan2025 09:33:55.219] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ivanesgey lost connection: Disconnected
+[24Jan2025 09:33:55.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ivanesgey left the game
+[24Jan2025 09:33:55.219] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ivanesgey
+[24Jan2025 09:39:49.272] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Jan2025 09:43:11.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Migueelolabarria> ivan de dia
