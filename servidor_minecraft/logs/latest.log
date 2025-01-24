@@ -736,3 +736,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'vinery:dark_cherry'
 [24Jan2025 21:13:37.895] [Server thread/WARN] [tombstone/]: The death event of the player Enekito04 was canceled by another mod
 [24Jan2025 21:13:37.896] [Server thread/INFO] [tombstone/]: The player Enekito04 has successfully been saved
 [24Jan2025 21:13:57.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enekito04 burned to death
+[24Jan2025 21:16:45.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enekito04 has made the advancement [Suit Up]
+[24Jan2025 21:19:30.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enekito04 has made the advancement [What a Deal!]
+[24Jan2025 21:19:30.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enekito04 has made the advancement [Wild Grapes]
+[24Jan2025 21:24:54.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Enekito04 moved wrongly!
