@@ -722,3 +722,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'vinery:dark_cherry'
 [24Jan2025 10:11:17.616] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Migueelolabarria lost connection: Disconnected
 [24Jan2025 10:11:17.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Migueelolabarria left the game
 [24Jan2025 10:11:17.617] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Migueelolabarria
+[24Jan2025 10:19:22.717] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Migueelolabarria[/127.77.122.43:47679] logged in with entity id 10630 at (-2123.3342753176807, 64.0, -1159.300000011921)
+[24Jan2025 10:19:22.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Migueelolabarria joined the game
+[24Jan2025 10:19:22.743] [Server thread/INFO] [Jade/]: Syncing config to Migueelolabarria (0e1e82f6-1192-3677-ba2d-6fd5a907c3eb)
+[24Jan2025 10:19:23.423] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Migueelolabarria (18)
+[24Jan2025 10:19:23.424] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Migueelolabarria
