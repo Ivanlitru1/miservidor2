@@ -705,3 +705,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'vinery:dark_cherry'
 [24Jan2025 19:33:34.535] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Enekito04 lost connection: Timed out
 [24Jan2025 19:33:34.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enekito04 left the game
 [24Jan2025 19:33:34.535] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Enekito04
+[24Jan2025 19:35:54.445] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Enekito04[/127.41.205.116:54895] logged in with entity id 4457 at (874.1664684729983, 73.0, -76.30000001192093)
+[24Jan2025 19:35:54.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enekito04 joined the game
+[24Jan2025 19:35:54.461] [Server thread/INFO] [Jade/]: Syncing config to Enekito04 (69812615-9561-354a-9988-85ddbd911a58)
+[24Jan2025 19:35:55.028] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Enekito04 (18)
+[24Jan2025 19:35:55.029] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Enekito04
+[24Jan2025 19:36:24.534] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Enekito04 lost connection: Timed out
+[24Jan2025 19:36:24.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enekito04 left the game
+[24Jan2025 19:36:24.535] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Enekito04
