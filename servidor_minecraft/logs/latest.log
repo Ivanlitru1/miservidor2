@@ -738,3 +738,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'vinery:dark_cherry'
 [24Jan2025 10:38:43.108] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4851ms or 97 ticks behind
 [24Jan2025 10:43:26.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Migueelolabarria has made the advancement [Sweet Dreams]
 [24Jan2025 10:50:43.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Migueelolabarria has made the advancement [Race Against The Clock]
+[24Jan2025 10:59:58.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Migueelolabarria lost connection: Disconnected
+[24Jan2025 10:59:58.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Migueelolabarria left the game
+[24Jan2025 10:59:58.265] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Migueelolabarria
