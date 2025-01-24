@@ -727,3 +727,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'vinery:dark_cherry'
 [24Jan2025 10:19:22.743] [Server thread/INFO] [Jade/]: Syncing config to Migueelolabarria (0e1e82f6-1192-3677-ba2d-6fd5a907c3eb)
 [24Jan2025 10:19:23.423] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Migueelolabarria (18)
 [24Jan2025 10:19:23.424] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Migueelolabarria
+[24Jan2025 10:37:54.920] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Migueelolabarria lost connection: Timed out
+[24Jan2025 10:37:54.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Migueelolabarria left the game
+[24Jan2025 10:37:54.921] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Migueelolabarria
+[24Jan2025 10:38:05.725] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Migueelolabarria[/127.77.122.43:57375] logged in with entity id 14753 at (-1929.6393541076623, 68.0, -1090.9050165893682)
+[24Jan2025 10:38:05.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Migueelolabarria joined the game
+[24Jan2025 10:38:05.742] [Server thread/INFO] [Jade/]: Syncing config to Migueelolabarria (0e1e82f6-1192-3677-ba2d-6fd5a907c3eb)
+[24Jan2025 10:38:06.493] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Migueelolabarria (18)
+[24Jan2025 10:38:06.493] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Migueelolabarria
+[24Jan2025 10:38:43.108] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4851ms or 97 ticks behind
+[24Jan2025 10:43:26.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Migueelolabarria has made the advancement [Sweet Dreams]
+[24Jan2025 10:50:43.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Migueelolabarria has made the advancement [Race Against The Clock]
