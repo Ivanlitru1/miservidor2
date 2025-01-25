@@ -1,2 +1,0 @@
-# msx
-ay minecraft server
